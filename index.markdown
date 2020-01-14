@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+![robot](/assets/robot5.png)
+# Arbete pågår...

@@ -4,15 +4,7 @@ title: Om
 permalink: /om/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll -->
+Microgeni bedriver konsultverksamhet främst inom test och verifiering av inbyggd mjukvara
+(dvs system som drivs av en eller flera micro-processorer).  
+Företaget utvecklar ett eget test-ramverk samt erbjuder tjänster inom automatisering av bygg-system, Continuous Integration för inbyggda system. -->
