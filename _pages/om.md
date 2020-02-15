@@ -14,6 +14,5 @@ Microgeni AB bedriver konsultverksamhet främst inom test och verifiering av inb
 Bolaget utvecklar eget test-ramverk
 samt erbjuder tjänster inom automatisering av byggsystem och Continuous Integration.
 
-
-Organisationsnummer: 1234567-5678   
-Företaget innehar F-skattsedel.
+[//]: # (Organisationsnummer: 1234567-5678)   
+[//]: # (Företaget innehar F-skattsedel.)
