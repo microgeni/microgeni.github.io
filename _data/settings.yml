@@ -30,7 +30,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://instagram.com/daniel_microgeni'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -55,7 +55,7 @@ social_settings:
   bandcamp_url: ''
   linkedin_url: 'https://www.linkedin.com/in/daniel-benjaminsson-05431074/'
   telegram_url: ' https://t.me/microgeni'
-  slack_url: 'http'
+  slack_url: ''
 
 
 
