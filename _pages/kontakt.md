@@ -11,22 +11,23 @@ featured_image: /images/person.jpg
 ![](/images/demo/demo-landscape-2.jpg) -->
 
 #### Address
-Microgeni AB  
-Verkmästaregatan 5  
+Microgeni AB<br>
+Verkmästaregatan 5<br>
 417 57 Göteborg
 
 
-#### Telefon  
+#### Mobil
 +46 (0)707-761476
 
 #### Epost
 <a href="mailto:daniel@microgeni.se">daniel@microgeni.se</a>
 
 
-<br/>
+<!--<br/>
 
 #### Kontaktformulär
-{% include contact-form.html %}
+#{% include contact-form.html %}
 
 <!-- We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
 -->
+
