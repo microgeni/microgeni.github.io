@@ -1,7 +1,7 @@
 ---
 title: Om företaget
 subtitle:
-description: Om företaget microgeni
+description: Om företaget
 featured_image: /images/cave.jpg
 ---
 

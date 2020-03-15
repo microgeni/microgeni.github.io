@@ -1,14 +1,10 @@
 ---
 title: Kontakt
 subtitle:
-description: A stunning personal blog Jekyll theme with an image-focused design.
+description: Kontakt
 featured_image: /images/person.jpg
 ---
 
-
-<!--### Här hittar du microgeni
-
-![](/images/demo/demo-landscape-2.jpg) -->
 
 #### Address
 Microgeni AB<br>
@@ -19,15 +15,14 @@ Verkmästaregatan 5<br>
 #### Mobil
 +46 (0)707-761476
 
-#### Epost
-<a href="mailto:daniel@microgeni.se">daniel@microgeni.se</a>
-
-
-<!--<br/>
-
-#### Kontaktformulär
-#{% include contact-form.html %}
-
-<!-- We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
--->
-
+<!-- Simple try to stop spam bots -->
+<script language="JavaScript" type="text/javascript">
+var p0 = "<h4 id=" + "epost" + ">Epost</h4>"
+var p1 = "daniel";
+var p2 = Math.pow(2,6);
+var p3 = String.fromCharCode(p2);
+var p4 = "microgeni.se";
+var p5 = p1 + String.fromCharCode(p2) + p4;
+document.write(""+ p0);
+document.write("<p><a href=" + "mai" + "lto" + ":" + p5 + ">" + p1 + p3 + p4 + "</a></p>");
+</script>
