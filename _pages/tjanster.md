@@ -10,11 +10,16 @@ featured_image: /images/demo/demo-portrait.jpg
 * Automatiserade tester.
 * Byggmiljö för mjukvara.
 * CI/CD - Continous Integration / Continous Delivery.
-    - Bash
 	- Git
 	- Jenkins
 	- Gerrit
-* Programmering och scriptning på flera plattformar.
+	-
+* Programmering och scriptning mot flera plattformar.
+	- Bash
+	- Python
+	- C/C++
+	- Erlang/Elixir
+	- Pascal
 * Eget testramverk.
 
 ---
