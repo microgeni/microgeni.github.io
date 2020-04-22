@@ -17,7 +17,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /blogg/:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -64,4 +64,4 @@ plugins:
   - jekyll-sitemap
 
 paginate: 6   # how many blog post on each page
-paginate_path: "/blog/page:num/"
+paginate_path: "/blogg/page:num/"

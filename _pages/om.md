@@ -15,4 +15,4 @@ Bolaget utvecklar eget test-ramverk
 samt erbjuder tjänster inom automatisering av byggsystem och Continuous Integration.
 
 Organisationsnummer: 559246-0918.<br>
-<!--Företaget innehar F-skattsedel. -->
+Företaget innehar F-skattsedel.

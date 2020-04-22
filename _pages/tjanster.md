@@ -2,7 +2,7 @@
 title: Tjänster
 subtitle:
 description: microgeni tjänster
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/waterfall.jpg
 ---
 
 
@@ -13,13 +13,11 @@ featured_image: /images/demo/demo-portrait.jpg
 	- Git
 	- Jenkins
 	- Gerrit
-	-
-* Programmering och scriptning mot flera plattformar.
+* Programmering och scriptning mot flera olika plattformar.
 	- Bash
 	- Python
-	- C/C++
+	- C
 	- Erlang/Elixir
+	- Swift
 	- Pascal
 * Eget testramverk.
-
----
