@@ -13,12 +13,12 @@ featured_image: /images/demo/demo-portrait.jpg
 	- Git
 	- Jenkins
 	- Gerrit
-	-
-* Programmering och scriptning mot flera plattformar.
+* Programmering och scriptning mot flera olika plattformar.
 	- Bash
 	- Python
-	- C/C++
+	- C
 	- Erlang/Elixir
+	- Swift
 	- Pascal
 * Eget testramverk.
 
