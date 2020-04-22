@@ -2,7 +2,7 @@
 title: Tjänster
 subtitle:
 description: microgeni tjänster
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/waterfall.jpg
 ---
 
 
@@ -21,5 +21,3 @@ featured_image: /images/demo/demo-portrait.jpg
 	- Swift
 	- Pascal
 * Eget testramverk.
-
----
